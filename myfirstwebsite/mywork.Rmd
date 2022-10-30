@@ -1,0 +1,33 @@
+---
+title: "My Work"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### **ผลงานการจัดทำทัศนภาพข้อมูลในรายวิชา Data Visualization**
+#### **1. ** ทัศนภาพข้อมูลแสดงจำนวนปีที่ได้รับการศึกษาเฉลี่ยของประชากรไทย จำแนกตามกลุ่มอายุและเขตที่อยู่อาศัย
+<center>   
+![](/Users/lookmaizz/Downloads/Screen Shot 2565-10-30 at 23.07.34.png){width="40%"}
+
+
+![](/Users/lookmaizz/Downloads/Screen Shot 2565-10-30 at 23.07.58.png){width="40%"}
+
+
+![](/Users/lookmaizz/Downloads/Screen Shot 2565-10-30 at 23.08.07.png){width="40%"}
+</center>
+
+#### **2. **
+
+![](/Users/lookmaizz/Downloads/Screen Shot 2565-10-30 at 23.50.07.png){width="40%"}
+
+
+
+
+### **งานวิจัยรายวิชา Design Research**
+
+--- **การพัฒนากิจกรรมส่งเสริมการเรียนรู้ทางสังคมและอารมณ์ของครู**
+
+[This is a link.](https://drive.google.com/file/d/1guegebm9JKhG5qNiHPvemsQTEBl0WO5-/view?usp=sharing)

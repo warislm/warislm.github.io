@@ -1,0 +1,10 @@
+name: "my-website"
+navbar:
+  title: "Warisara webpage"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "My work"
+      href: mywork.html      
+    - text: "About"
+      href: about.html
